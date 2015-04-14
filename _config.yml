@@ -5,7 +5,7 @@ name: "blog.virtual"
 description: "Virtual Gallery Blog"
 
 # Your name. Will show in your footer + sidebar 
-author: "Virtual Gallery"
+author: "Virtual"
 
 url: "https://virtualnz.github.io"
 baseurl: "/blog"
@@ -15,7 +15,7 @@ author-bio: "Virtual is a dedicated online contemporary art and project space, f
 
 # Social Accounts (mine, as placeholders)
 
-twitter: virtualgallery
+twitter: virtualgs
 github: virtualnz
 
 
